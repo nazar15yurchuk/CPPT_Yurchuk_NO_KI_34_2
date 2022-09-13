@@ -1,0 +1,9 @@
+Initial temperature: 8 C
+Fan start's spinning! Status: true with INITIAL mode
+Button ON is pressed
+Air conditioner stars working in HEAT mode!
+Fan speed mode changed to LOW
+Temperature value increased  to 37
+Temperature value reducted  to 32
+Fan finished spinning! Status: false
+Button OFF is pressed
