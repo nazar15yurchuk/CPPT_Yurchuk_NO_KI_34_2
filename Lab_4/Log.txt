@@ -1,0 +1,7 @@
+Air conditioning started... (10 seconds)
+Air conditioning stopped... 
+ Temperature: 35
+Filter cleaned!
+Changing humidity started... (10 seconds)
+Changing humidity stopped... 
+ Humidity: 80
